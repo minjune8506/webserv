@@ -6,10 +6,6 @@
 ------------
 > [Subject](#subject)
 
-> [Functions](#Functions)
-
-> [Commit-Rule](#commit-message-rule)
-
 ### **Subject**
 ---
 * A HTTP server in C++ 98
