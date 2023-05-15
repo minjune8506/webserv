@@ -2,10 +2,6 @@
 
 > Contributor : keokim, minjkim2, junyopar, dkim2, jihoh, seungsle
 
-### **Contents**
-------------
-> [Subject](#subject)
-
 ### **Subject**
 ---
 * A HTTP server in C++ 98
